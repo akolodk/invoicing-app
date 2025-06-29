@@ -1,3 +1,6 @@
+# Vibe coding experiment 
+# not a single line of code in this repo was written by a real person.
+
 # Invoice Generator
 
 A comprehensive invoicing application built with Python and Streamlit for managing billable hours and generating professional invoices.
