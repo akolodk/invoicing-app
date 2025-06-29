@@ -5,19 +5,19 @@ import os
 
 # Polish Company Information (Seller/Sprzedawca)
 POLISH_SELLER_INFO = {
-    "name": os.getenv("POLISH_COMPANY_NAME", "MAGDALENA KOŁODKIEWICZ BRIGHT"),
-    "business_type": os.getenv("POLISH_COMPANY_TYPE", "COACHING SZKOLENIA DORADZTWO HR"),
-    "address": os.getenv("POLISH_COMPANY_ADDRESS", "ul. Obrzetska 1a/118"),
+    "name": os.getenv("POLISH_COMPANY_NAME", "POLISH_COMPANY_NAME"),
+    "business_type": os.getenv("POLISH_COMPANY_TYPE", "POLISH_COMPANY_TYPE"),
+    "address": os.getenv("POLISH_COMPANY_ADDRESS", "ul. POLISH_COMPANY_ADDRESS"),
     "city": os.getenv("POLISH_COMPANY_CITY", "02-691 Warszawa"),
-    "nip": os.getenv("POLISH_COMPANY_NIP", "7281339661"),
+    "nip": os.getenv("POLISH_COMPANY_NIP", "POLISH_COMPANY_NIP"),
     "regon": os.getenv("POLISH_COMPANY_REGON", ""),
     "phone": os.getenv("POLISH_COMPANY_PHONE", ""),
     "email": os.getenv("POLISH_COMPANY_EMAIL", ""),
-    "bank_account": os.getenv("POLISH_COMPANY_BANK", "64 1140 2004 0000 3202 3382 6537"),
+    "bank_account": os.getenv("POLISH_COMPANY_BANK", "POLISH_COMPANY_BANK"),
     "bank_name": os.getenv("POLISH_COMPANY_BANK_NAME", "BRE BANK SA"),
-    "header_title": os.getenv("POLISH_HEADER_TITLE", "bright"),
+    "header_title": os.getenv("POLISH_HEADER_TITLE", "POLISH_HEADER_TITLE"),
     "header_subtitle": os.getenv("POLISH_HEADER_SUBTITLE", "ways to grow"),
-    "header_description": os.getenv("POLISH_HEADER_DESC", "coaching, szkolenia, doradztwo HR")
+    "header_description": os.getenv("POLISH_HEADER_DESC", "POLISH_HEADER_DESC")
 }
 
 # Polish Invoice Settings
