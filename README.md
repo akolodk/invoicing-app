@@ -1,5 +1,6 @@
 # Vibe coding experiment 
-# not a single line of code in this repo was written by a real person.
+## not a single line of code in this repo was written by a real person.
+I can confirm that the code works and an invoice can be genrated which was the point of this experiment.
 
 # Invoice Generator
 
